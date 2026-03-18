@@ -1,0 +1,51 @@
+{
+  "transactionType": "Location",
+  "properties": [
+    {
+      "code": "apartment-rent",
+      "name": "Appartements",
+      "count": 1
+    },
+    {
+      "code": "house-rent",
+      "name": "Maisons",
+      "count": 1
+    },
+    {
+      "code": "villa-rent",
+      "name": "Villas & maisons de luxe",
+      "count": 1
+    },
+    {
+      "code": "riad-rent",
+      "name": "Riad",
+      "count": 1
+    },
+    {
+      "code": "room-rent",
+      "name": "Chambres",
+      "count": 1
+    },
+    {
+      "code": "commercial-rent",
+      "name": "Locaux commerciaux",
+      "count": 1
+    },
+    {
+      "code": "office-rent",
+      "name": "Bureaux",
+      "count": 1
+    },
+    {
+      "code": "land-rent",
+      "name": "Terrains",
+      "count": 1
+    },
+    {
+      "code": "farm-rent",
+      "name": "Fermes",
+      "count": 1
+    }
+  ],
+  "totalCount": 9
+}

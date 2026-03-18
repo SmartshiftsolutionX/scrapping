@@ -1,0 +1,31 @@
+{
+  "transactionType": "Location vacances",
+  "properties": [
+    {
+      "code": "apartment-vacational",
+      "name": "Appartements",
+      "count": 1
+    },
+    {
+      "code": "house-vacational",
+      "name": "Maisons",
+      "count": 1
+    },
+    {
+      "code": "villa-vacational",
+      "name": "Villas & maisons de luxe",
+      "count": 1
+    },
+    {
+      "code": "riad-vacational",
+      "name": "Riad",
+      "count": 1
+    },
+    {
+      "code": "room-vacational",
+      "name": "Chambres",
+      "count": 1
+    }
+  ],
+  "totalCount": 5
+}

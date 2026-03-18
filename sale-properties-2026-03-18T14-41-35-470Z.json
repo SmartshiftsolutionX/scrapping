@@ -1,0 +1,46 @@
+{
+  "transactionType": "Vente",
+  "properties": [
+    {
+      "code": "apartment-sale",
+      "name": "Appartements",
+      "count": 1
+    },
+    {
+      "code": "house-sale",
+      "name": "Maisons",
+      "count": 1
+    },
+    {
+      "code": "villa-sale",
+      "name": "Villas & maisons de luxe",
+      "count": 1
+    },
+    {
+      "code": "riad-sale",
+      "name": "Riad",
+      "count": 1
+    },
+    {
+      "code": "commercial-sale",
+      "name": "Locaux commerciaux",
+      "count": 1
+    },
+    {
+      "code": "office-sale",
+      "name": "Bureaux",
+      "count": 1
+    },
+    {
+      "code": "land-sale",
+      "name": "Terrains",
+      "count": 1
+    },
+    {
+      "code": "farm-sale",
+      "name": "Fermes",
+      "count": 1
+    }
+  ],
+  "totalCount": 8
+}
